@@ -30,7 +30,7 @@ else
     </section>
 
     <section class="instructions">
-        <h2>What's Next?44442222</h2>
+        <h2>What's Next?</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html">Deploying AWS Elastic Beanstalk Applications in PHP Using Eb and Git</a></li>
@@ -45,6 +45,10 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
+        
+        <h2>Pictures</h2>
+        <img src="./0.jpg" height=200 waight=200 alt="pic">
+        
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
