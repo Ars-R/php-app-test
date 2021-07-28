@@ -47,7 +47,7 @@ else
         </ul>
         
         <h2>Pictures</h2>
-        <img src="./0.jpg" height=200 waight=200 alt="pic">
+        <img src="./0.jpg" height=200 waight=400 alt="pic">
         
     </section>
 
